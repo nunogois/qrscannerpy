@@ -1,0 +1,13 @@
+{
+  "outfile": "codes.json",
+  "path": "images",
+  "extensions": [
+    ".png",
+    ".tif",
+    ".tiff",
+    ".jpg"
+  ],
+  "logfile": "logs.log",
+  "loglevel": "info",
+  "logformat": "%(asctime)s | %(levelname)s | %(message)s"
+}
